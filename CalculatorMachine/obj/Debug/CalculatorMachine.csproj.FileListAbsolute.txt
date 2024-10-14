@@ -1,0 +1,14 @@
+E:\23.11.5760\New folder\Module Praktikum 02\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.csprojAssemblyReference.cache
+E:\23.11.5760\New folder\Module Praktikum 02\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.csproj.CoreCompileInputs.cache
+E:\23.11.5760\Pertemuan 2\New folder\Module Praktikum 02\CalculatorApp\CalculatorMachine\bin\Debug\CalculatorMachine.dll
+E:\23.11.5760\Pertemuan 2\New folder\Module Praktikum 02\CalculatorApp\CalculatorMachine\bin\Debug\CalculatorMachine.pdb
+E:\23.11.5760\Pertemuan 2\New folder\Module Praktikum 02\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.csprojAssemblyReference.cache
+E:\23.11.5760\Pertemuan 2\New folder\Module Praktikum 02\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.csproj.CoreCompileInputs.cache
+E:\23.11.5760\Pertemuan 2\New folder\Module Praktikum 02\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.dll
+E:\23.11.5760\Pertemuan 2\New folder\Module Praktikum 02\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.pdb
+C:\Tugas\Semester 3\Pemrograman Lanjut\New folder-20240927T191427Z-001\New folder\Module Praktikum 02\CalculatorApp\CalculatorMachine\bin\Debug\CalculatorMachine.dll
+C:\Tugas\Semester 3\Pemrograman Lanjut\New folder-20240927T191427Z-001\New folder\Module Praktikum 02\CalculatorApp\CalculatorMachine\bin\Debug\CalculatorMachine.pdb
+C:\Tugas\Semester 3\Pemrograman Lanjut\New folder-20240927T191427Z-001\New folder\Module Praktikum 02\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.csproj.AssemblyReference.cache
+C:\Tugas\Semester 3\Pemrograman Lanjut\New folder-20240927T191427Z-001\New folder\Module Praktikum 02\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.csproj.CoreCompileInputs.cache
+C:\Tugas\Semester 3\Pemrograman Lanjut\New folder-20240927T191427Z-001\New folder\Module Praktikum 02\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.dll
+C:\Tugas\Semester 3\Pemrograman Lanjut\New folder-20240927T191427Z-001\New folder\Module Praktikum 02\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.pdb

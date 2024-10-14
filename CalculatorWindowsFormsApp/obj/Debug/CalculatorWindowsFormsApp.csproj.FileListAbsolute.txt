@@ -1,0 +1,42 @@
+E:\Praktikum\CalculatorApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.exe.config
+E:\Praktikum\CalculatorApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.exe
+E:\Praktikum\CalculatorApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.pdb
+E:\Praktikum\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csprojResolveAssemblyReference.cache
+E:\Praktikum\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.Form1.resources
+E:\Praktikum\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.Properties.Resources.resources
+E:\Praktikum\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.GenerateResource.Cache
+E:\Praktikum\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.exe
+E:\Praktikum\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.pdb
+E:\23.11.5760\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.exe.config
+E:\23.11.5760\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.exe
+E:\23.11.5760\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.pdb
+E:\23.11.5760\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csprojAssemblyReference.cache
+E:\23.11.5760\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.Form1.resources
+E:\23.11.5760\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.Properties.Resources.resources
+E:\23.11.5760\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.GenerateResource.cache
+E:\23.11.5760\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.CoreCompileInputs.cache
+E:\23.11.5760\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.exe
+E:\23.11.5760\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.pdb
+E:\23.11.5760\Pertemuan 2\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.exe.config
+E:\23.11.5760\Pertemuan 2\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.exe
+E:\23.11.5760\Pertemuan 2\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.pdb
+E:\23.11.5760\Pertemuan 2\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csprojAssemblyReference.cache
+E:\23.11.5760\Pertemuan 2\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.Form1.resources
+E:\23.11.5760\Pertemuan 2\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.Properties.Resources.resources
+E:\23.11.5760\Pertemuan 2\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.GenerateResource.cache
+E:\23.11.5760\Pertemuan 2\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.CoreCompileInputs.cache
+E:\23.11.5760\Pertemuan 2\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.exe
+E:\23.11.5760\Pertemuan 2\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.pdb
+C:\Tugas\Semester 3\Pemrograman Lanjut\New folder-20240927T191427Z-001\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.exe.config
+C:\Tugas\Semester 3\Pemrograman Lanjut\New folder-20240927T191427Z-001\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.exe
+C:\Tugas\Semester 3\Pemrograman Lanjut\New folder-20240927T191427Z-001\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.pdb
+C:\Tugas\Semester 3\Pemrograman Lanjut\New folder-20240927T191427Z-001\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorMachine.dll
+C:\Tugas\Semester 3\Pemrograman Lanjut\New folder-20240927T191427Z-001\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorMachine.pdb
+C:\Tugas\Semester 3\Pemrograman Lanjut\New folder-20240927T191427Z-001\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Tugas\Semester 3\Pemrograman Lanjut\New folder-20240927T191427Z-001\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.Form1.resources
+C:\Tugas\Semester 3\Pemrograman Lanjut\New folder-20240927T191427Z-001\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.Properties.Resources.resources
+C:\Tugas\Semester 3\Pemrograman Lanjut\New folder-20240927T191427Z-001\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.GenerateResource.cache
+C:\Tugas\Semester 3\Pemrograman Lanjut\New folder-20240927T191427Z-001\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Tugas\Semester 3\Pemrograman Lanjut\New folder-20240927T191427Z-001\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.CopyComplete
+C:\Tugas\Semester 3\Pemrograman Lanjut\New folder-20240927T191427Z-001\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.exe
+C:\Tugas\Semester 3\Pemrograman Lanjut\New folder-20240927T191427Z-001\New folder\Module Praktikum 02\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.pdb
